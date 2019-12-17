@@ -7,11 +7,11 @@
 【更新日志:
 
 
+Change Log ⨾
 
-
-1⨾ Update Feature
-2⨾ Fixed Some Bug
-3⨾ Add New Function
+1 ⨾ Update Feature
+2 ⨾ Fixed Some Bug
+3 ⨾ Add New Function
 
 
 
